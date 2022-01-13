@@ -1,1 +1,2 @@
-# fadhil-al-hafizh-ibta-1900018318
+# algen
+Algoritma Genetika
